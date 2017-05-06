@@ -1,2 +1,14 @@
-#info {font-size:70%;line-height:100%}
+#endinfo {font-size:70%;line-height:100%}
 #linklist {font-size:120%;line-height:95%;font-weight:550}
+#ifo {
+	
+	float:left;width:65%;height:50px;
+}
+#pinfo  {
+  font-size:1em;
+  border:1px solid #000000;
+  padding:3px 7px 2px 7px;
+  border-collapse:collapse;
+  width:auto}
+#pinfo td.alt {font-weight:bold}
+#psinfo {float:right;width:25%;height:auto;}
